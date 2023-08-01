@@ -25,7 +25,7 @@ import sys
 #   )
 
 
-### MODULES TO CONVERT XML RESPONSE TO PYTHON DICTIONARIES ###
+### FUNCTIONS TO CONVERT XML RESPONSE TO PYTHON DICTIONARIES ###
 
 def get_op_state(rep):
     global op_state
